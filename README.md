@@ -2,6 +2,10 @@
 
 Simple Trivia Quiz built with Typescript, React and Styled Components.
 
+![typesquiz wrong answer png](./assets/wrong-answer.png)
+
+![typesquiz right answer png](./assets/right-answer.png)
+
 # technologies
 
 - React
